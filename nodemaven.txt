@@ -1,1 +1,2 @@
 file created for jenkins 5th pipeline
+thi add data for automation
